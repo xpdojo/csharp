@@ -2,7 +2,13 @@
 
 C#
 
-## Install .NET on Windows 11
+## Install
+
+### macOS
+
+- [Install .NET on macOS](https://learn.microsoft.com/en-us/dotnet/core/install/macos)
+
+### Windows 11
 
 ```ps1
 winget install Microsoft.DotNet.SDK.7
