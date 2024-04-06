@@ -1,6 +1,6 @@
 # Ref: https://www.toptal.com/developers/gitignore/api/csharp
 
-# JetBrains
+# JetBrains Rider
 .idea/
 
 # Visual Studio
